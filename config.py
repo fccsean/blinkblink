@@ -42,7 +42,7 @@ RIGHT_EYE_INDICES = [362, 385, 387, 263, 373, 380]
 
 # 通知消息模板
 BLINK_WARNING_TITLE = "Eye Protection"
-BLINK_WARNING_MESSAGE = "Blink rate: {rate:.0f}/min. Remember to blink! Damon宝宝,注意休息眼睛"
+BLINK_WARNING_MESSAGE = "Blink rate: {rate:.0f}/min. Remember to blink and rest your eyes!"
 SEDENTARY_WARNING_TITLE = "Sedentary Reminder"
 SEDENTARY_WARNING_MESSAGE = "You've been sitting for a while. Time to stand up and walk around!"
 
